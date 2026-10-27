@@ -232,7 +232,7 @@ Deshalb fällt die Zielfunktion in jedem Schritt.
 
 **Maße.** Rangkorrelation (Spearman) der Werte mit $q_n$; Anteil parteiischer Vorschläge ($\ell_n \neq 0$) unter den $k = 10$ besten; Korrelation des Bewerterfaktors $f_u$ mit dem Lager $c_u$ (Betrag, das Vorzeichen des Faktors ist beliebig).
 
-**Literatur** (aus dem Gedächtnis, nicht im Original geprüft): Wojcik u. a., „Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce Misinformation“, 2022; die Dokumentation zu den Notizen der Gemeinschaft („Community Notes“) beschreibt eine Faktorisierung dieser Art.
+**Literatur** (aus dem Gedächtnis, nicht im Original geprüft): Wojcik u. a., „Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce the Spread of Misinformation“, 2022; die Dokumentation zu den Notizen der Gemeinschaft („Community Notes“) beschreibt eine Faktorisierung dieser Art.
         """
     )
 

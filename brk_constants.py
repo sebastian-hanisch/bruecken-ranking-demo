@@ -48,7 +48,7 @@ PRESETS = {
 }
 PRESET_HELP = {
     "Ungleiche Lager (80 : 20)": "Voreinstellung: 300 Bewerter, 80 % im großen Lager, Lagerneigung 1,5. Rangkorrelation zur wahren Qualität: Mittelwert 0,75, Mindestlager 0,74, brückenbasiert 0,94; unter den besten zehn sind beim Mittelwert 50 %, brückenbasiert 30 % parteiische Vorschläge.",
-    "Gleich große Lager": "Gleich große Lager (50 : 50): der Mittelwert reicht fast (0,93 gegen 0,95 brückenbasiert); das Mindestlager ist mit 0,77 schlechter, weil die Mittel der beiden Lager rauschen.",
+    "Gleich große Lager": "Gleich große Lager (50 : 50): der Mittelwert reicht fast (0,93 gegen 0,95 brückenbasiert); das Mindestlager ist mit 0,77 schlechter (mehr Bewerter ändern daran in der Simulation nichts; vermutete Ursache: das Minimum ordnet parteiische Vorschläge allein nach dem fremden Lager).",
     "Schwache Regularisierung": "Dieselbe Welt wie die Voreinstellung, aber λ = 0,15 statt 5: das brückenbasierte Verfahren fällt von 0,94 auf 0,78 (50 % parteiisch), kaum über dem Mittelwert mit 0,75.",
     "Keine Lagerneigung": "Lagerneigung 0: das Lager spielt für die Bewertung keine Rolle, alle drei Verfahren liegen bei 0,97 bis 0,98, und der Bewerterfaktor folgt dem Lager zu 0 %.",
     "Starke Polarisierung": "Lagerneigung 3,0: Mittelwert 0,51, Mindestlager 0,35, brückenbasiert 0,70; unter den besten zehn sind beim Mittelwert 50 %, brückenbasiert 0 % parteiische Vorschläge.",
